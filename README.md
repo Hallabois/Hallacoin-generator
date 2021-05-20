@@ -6,5 +6,5 @@
 
 ---
 
-## Ohjeet lähdekoodin generoimiseen
+## Ohjeet lähdekoodin generoimiseen alusta asti
 1. [Pull litecoin & use the automatic script](/docs/generate.md)
