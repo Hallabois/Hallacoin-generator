@@ -26,7 +26,7 @@ find ./ -type f -readable -writable -exec sed -i "s/photons/eximiat/g" {} \;
 
 find ./ -type f -readable -writable -exec sed -i "s/9333/9666/g" {} \;  // change default port
 
-
+exit 1
 
 
 cd litecoin
