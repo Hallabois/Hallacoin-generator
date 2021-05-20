@@ -7,3 +7,4 @@
 7. ```wget "https://raw.githubusercontent.com/Hallabois/Hallacoin-generator/main/Inside_chroot.sh"```
 8. ```chmod +x ./Inside_chroot.sh```
 9. ```./Inside_chroot.sh```
+10. Paina enteriä tai Y:tä, kun skripti pyytää
