@@ -30,6 +30,7 @@ find ./ -type f -readable -writable -exec sed -i "s/9333/9666/g" {} \;  // chang
 
 
 cd litecoin
+: '
 nano src/chainparams.cpp
     consensus.nSubsidyHalvingInterval = 11; //maximum coin supply
     
@@ -80,6 +81,7 @@ nano src/amount.h
     static const CAmount MAX_MONEY = 84000000 * COIN;   // total number of coin
     
     
+'
 git clone  https://github.com/lhartikk/GenesisH0
 cd GenesisH0
 python genesis.py -a scrypt -z "BBC NEWS 20/Dec/2017 Bitcoin Cash deals frozen as insider trading is probed" -p "040184710fa689ad5023690c80f3a49c8f13f8d45b8c857fbcbc8bc4a8e4d3eb4b10f4d4604fa08dce601aaf0f470216fe1b51850b4acf21b179c45070ac7b03a9" -t 1513784917 -n 2084524493
