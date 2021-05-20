@@ -10,7 +10,7 @@ sudo apt-get install libdb4.8-dev libdb4.8++-dev
 
 git clone https://github.com/litecoin-project/litecoin.git --depth 1
 
-
+echo "Replacing files..."
 
 find ./ -type f -readable -writable -exec sed -i "s/Litecoin/Hallacoin/g" {} \;
 find ./ -type f -readable -writable -exec sed -i "s/LiteCoin/Hallacoin/g" {} \;
