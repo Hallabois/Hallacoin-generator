@@ -1,5 +1,6 @@
-1. Setup chroot :Doc todo
-2. Enter chroot :Doc todo
+# Environment setup
+1. (Optional) Setup chroot & Enter the chroot :Doc todo
+2. Ohje olettaa, että sulla on käytössäs ubuntu tai Windows-Subsystem-for-Linux ubuntu
 3. ```mkdir /home/halla```
 4. ```cd /home/halla```
 5. ```apt install git nano python```
