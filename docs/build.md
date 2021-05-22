@@ -1,5 +1,5 @@
 # Building and Installing
-1. Varmista, että cpp-compileri on asennettu
+1. Varmista, että cpp-compileri on asennettu, ubuntulla asenna libtool: ```sudo apt-get install libtool```
 2. follow the instructions for your system in ```hallacoin/doc/build-{insert your OS here}```
 - [Linux](https://github.com/Hallabois/Hallacoin/blob/master/doc/build-unix.md)
 - [Windows](https://github.com/Hallabois/Hallacoin/blob/master/doc/build-windows.md)
