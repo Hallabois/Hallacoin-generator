@@ -1,7 +1,7 @@
 # Hallacoin (Ohjeet)
 
 ## Yleistä
-Jos tulee ongelmia jonkun asian kanssa ja saat itse sen järjestelmässäsi korjattua, harkitse korjaustavan lisäämistä näihin ohjeisiin johonkin sopivaan kohtaan.
+Jos sulle tulee ongelmia jonkun asian kanssa ja saat itse sen järjestelmässäsi korjattua, harkitse korjaustavan lisäämistä näihin ohjeisiin johonkin sopivaan kohtaan.
 
 ## Ohjeet rakentamiseen ja asentamiseen
 1. [Downloading the code and setting up the environment](/docs/setup.md)
