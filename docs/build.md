@@ -7,3 +7,7 @@
 
 ## Raspberry pi
 Käytä linuxin ohjeita, mutta ```./configure```:n sijaan käytä ``` ./configure CXXFLAGS="--param ggc-min-expand=1 --param ggc-min-heapsize=32768" --enable-cxx --without-gui --disable-shared --with-pic --enable-upnp-default --disable-wallet --with-boost-libdir=/usr/lib/arm-linux-gnueabihf```
+
+## Docker
+1. ```docker pull hallabois/hallacoin```
+2. ```docker run hallabois/hallacoin:latest```
