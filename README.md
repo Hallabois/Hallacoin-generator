@@ -11,4 +11,4 @@ Jos sulle tulee ongelmia jonkun asian kanssa ja saat itse sen järjestelmässäs
 
 ## Ohjeet lähdekoodin generoimiseen alusta asti
 1. [Pull litecoin & use the automatic script](/docs/generate.md)
-2. [Generate the Merkle Root](/docs/MerkleRoot.md)
+2. [Generate the Merkle Root & The Genesis Block](/docs/MerkleRoot.md)
