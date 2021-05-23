@@ -12,3 +12,8 @@ Jos sulle tulee ongelmia jonkun asian kanssa ja saat itse sen järjestelmässäs
 ## Ohjeet lähdekoodin generoimiseen alusta asti
 1. [Pull litecoin & use the automatic script](/docs/generate.md)
 2. [Generate the Merkle Root & The Genesis Block](/docs/MerkleRoot.md)
+
+## Kaivostoiminta
+1. Asenna cpuminer
+2. Käynnistä Hallacoin-qt legacy-tilassa: ```Hallacoin-qt -server -addresstype=legacy```
+3. ```minerd -o http://localhost:9332/ --user darius --pass rucker --coinbase-addr={sun hallacoin-osoite}```
