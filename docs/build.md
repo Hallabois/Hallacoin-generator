@@ -11,4 +11,4 @@ tai jos ei toimi, niin ↓☟↓
 
 ## Docker
 1. ```docker pull hallabois/hallacoin```
-2. ```docker run hallabois/hallacoin:latest```
+2. ```docker run -p 9666:9666 hallabois/hallacoin:latest```
