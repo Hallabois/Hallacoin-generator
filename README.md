@@ -15,5 +15,5 @@ Jos sulle tulee ongelmia jonkun asian kanssa ja saat itse sen järjestelmässäs
 
 ## Kaivostoiminta
 1. Asenna cpuminer
-2. Käynnistä Hallacoin-qt legacy-tilassa: ```Hallacoin-qt -server -addresstype=legacy```
+2. Käynnistä Hallacoin-qt legacy-address -tilassa: ```Hallacoin-qt -server -addresstype=legacy```
 3. ```minerd -o http://localhost:9332/ --user darius --pass rucker --coinbase-addr={sun hallacoin-osoite}```
