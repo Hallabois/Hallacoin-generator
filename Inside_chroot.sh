@@ -15,12 +15,16 @@ echo "Replacing files..."
 find ./ -type f -readable -writable -exec sed -i "s/Litecoin/Hallacoin/g" {} \;
 find ./ -type f -readable -writable -exec sed -i "s/LiteCoin/Hallacoin/g" {} \;
 find ./ -type f -readable -writable -exec sed -i "s/LTC/HLA/g" {} \;
+find ./ -type f -readable -writable -exec sed -i "s/ltc/hla/g" {} \;
 find ./ -type f -readable -writable -exec sed -i "s/litecoin/Hallacoin/g" {} \;
 find ./ -type f -readable -writable -exec sed -i "s/litecoind/Hallacoin/g" {} \;
 
 
 find ./ -type f -readable -writable -exec sed -i "s/lites/laudaatturit/g" {} \;
 find ./ -type f -readable -writable -exec sed -i "s/photons/eximiat/g" {} \;
+
+
+find ./ -type f -readable -writable -exec sed -i "s/Hallacoin-project/hallabois/g" {} \;
 
 
 
