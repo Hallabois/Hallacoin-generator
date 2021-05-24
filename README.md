@@ -1,2 +1,2 @@
 # Hallacoin (Ohjeet)
-[aloita tästä](/docs/README.md)
+[Lue netissä]( https://hallabois.github.io/Hallacoin-ohjeet/ )
