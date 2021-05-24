@@ -14,7 +14,8 @@ Jos sulle tulee ongelmia jonkun asian kanssa ja saat itse sen järjestelmässäs
 ---
 
 
-## Uber TT-shittiä
+# Uber TT-shittiä
+Jatka varoen
 
 ## Ohjeet rakentamiseen ja asentamiseen
 1. [Downloading the code and setting up the environment](setup)
