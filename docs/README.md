@@ -17,11 +17,11 @@ Jos sulle tulee ongelmia jonkun asian kanssa ja saat itse sen järjestelmässäs
 ---
 
 ## Ohjeet rakentamiseen ja asentamiseen
-1. [Downloading the code and setting up the environment](docs/setup.md)
-2. [Compiling & Installing](docs/build.md)
+1. [Downloading the code and setting up the environment](setup.md)
+2. [Compiling & Installing](build.md)
 
 ---
 
 ## Ohjeet lähdekoodin generoimiseen alusta asti
-1. [Pull litecoin & use the automatic script](docs/generate.md)
-2. [Generate the Merkle Root & The Genesis Block](docs/MerkleRoot.md)
+1. [Pull litecoin & use the automatic script](generate.md)
+2. [Generate the Merkle Root & The Genesis Block](MerkleRoot.md)
