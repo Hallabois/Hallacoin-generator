@@ -8,7 +8,7 @@ Jos sulle tulee ongelmia jonkun asian kanssa ja saat itse sen järjestelmässäs
 2. Lataa tiedosto [Hallacoin.conf](https://raw.githubusercontent.com/hallabois/hallacoin/master/Hallacoin.conf) (Ctrl+s tallentaa) kansioon C:\Users\SUNNIMITÄHÄN\AppData\Roaming\Hallacoin . Varmista että tiedoston tiedostopääte on .conf eikä .txt .
 
 ## Kaivostoiminta
-1. [Asenna cpuminer](https://sourceforge.net/projects/cpuminer/files/latest/download)
+1. [Lataa cpuminer](https://sourceforge.net/projects/cpuminer/files/latest/download)
 2. Käynnistä Hallacoin-qt legacy-address -tilassa, eli suorita seuraava komento Hallacoinin asennuskansiossa: ```Hallacoin-qt(.exe) -server -addresstype=legacy```
 3. ```minerd -o http://localhost:9332/ --user darius --pass rucker --coinbase-addr={sun hallacoin-osoite}```
 
