@@ -9,7 +9,7 @@ Jos sulle tulee ongelmia jonkun asian kanssa ja saat itse sen järjestelmässäs
 
 ## Kaivostoiminta
 1. [Lataa cpuminer](https://sourceforge.net/projects/cpuminer/files/latest/download)
-2. Käynnistä Hallacoin-qt legacy-address -tilassa, eli suorita seuraava komento Hallacoinin asennuskansiossa: ```Hallacoin-qt(.exe) -server -addresstype=legacy```
+2. Käynnistä Hallacoin-qt legacy-address -tilassa, eli suorita seuraava komento Hallacoinin asennuskansiossa: ```Hallacoin-qt.exe -server -addresstype=legacy```
 3. ```minerd -o http://localhost:9332/ --user darius --pass rucker --coinbase-addr={sun hallacoin-osoite}```
 
 
