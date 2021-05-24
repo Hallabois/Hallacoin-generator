@@ -5,7 +5,7 @@ Jos sulle tulee ongelmia jonkun asian kanssa ja saat itse sen järjestelmässäs
 
 ## Asennus Windowsille (64-bit)
 1. [Asenna Hallacoin-x.xx.x-win64-setup.exe](https://github.com/hallabois/hallacoin/releases/latest)
-2. Pidä hauskaa
+2. Lataa tiedosto [Hallacoin.conf](https://raw.githubusercontent.com/hallabois/hallacoin/master/Hallacoin.conf) kansioon C:\Users\SUNNIMITÄHÄN\AppData\Roaming\Hallacoin . Varmista että tiedoston tiedostopääte on .conf eikä .txt .
 
 ---
 
