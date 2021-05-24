@@ -1,7 +1,5 @@
-# Hallacoin (Ohjeet)
-
 ## Yleistä
-Jos sulle tulee ongelmia jonkun asian kanssa ja saat itse sen järjestelmässäsi korjattua, harkitse korjaustavan lisäämistä näihin ohjeisiin johonkin sopivaan kohtaan.
+Jos sulle tulee ongelmia jonkun asian kanssa ja saat itse sen järjestelmässäsi korjattua, harkitse korjaustavan lisäämistä näihin ohjeisiin, johonkin sopivaan kohtaan.
 
 ## Asennus Windowsille (64-bit)
 1. [Asenna Hallacoin-x.xx.x-win64-setup.exe](https://github.com/hallabois/hallacoin/releases/latest)
