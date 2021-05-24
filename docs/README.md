@@ -1,6 +1,8 @@
 ## Yleistä
 Jos sulle tulee ongelmia jonkun asian kanssa ja saat itse sen järjestelmässäsi korjattua, harkitse korjaustavan lisäämistä näihin ohjeisiin, johonkin sopivaan kohtaan.
 
+# Normiohjeet
+
 ## Asennus Windowsille (64-bit)
 1. [Asenna Hallacoin-x.xx.x-win64-setup.exe](https://github.com/hallabois/hallacoin/releases/latest)
 2. Lataa tiedosto [Hallacoin.conf](https://raw.githubusercontent.com/hallabois/hallacoin/master/Hallacoin.conf) (Ctrl+s tallentaa) kansioon C:\Users\SUNNIMITÄHÄN\AppData\Roaming\Hallacoin . Varmista että tiedoston tiedostopääte on .conf eikä .txt .
@@ -17,7 +19,7 @@ Jos sulle tulee ongelmia jonkun asian kanssa ja saat itse sen järjestelmässäs
 # Uber TT-shittiä
 Jatka varoen
 
-## Ohjeet rakentamiseen ja asentamiseen
+## Ohjeet rakentamiseen
 1. [Downloading the code and setting up the environment](setup)
 2. [Compiling & Installing](build)
 
