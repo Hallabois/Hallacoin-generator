@@ -1,6 +1,8 @@
 ## Yleistä
 Jos sulle tulee ongelmia jonkun asian kanssa ja saat itse sen järjestelmässäsi korjattua, harkitse korjaustavan lisäämistä näihin ohjeisiin, johonkin sopivaan kohtaan.
 
+<img src="https://raw.githubusercontent.com/hallabois/Media/main/hallacoin50000.png" width="400" height="400">
+
 # Normiohjeet
 
 ## Asennus Windowsille (64-bit)
