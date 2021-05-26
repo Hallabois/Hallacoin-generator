@@ -1,5 +1,5 @@
 1. Lataa ja asenna uusin versio ([Hallacoin-x.xx.x-win64-setup.exe](https://github.com/hallabois/hallacoin/releases))
-  ![](../asennus-kuvat/1.png?raw=true)
+  ![](./asennus-kuvat/1.png?raw=true)
 - Jos tulee viesti, että tiedoston lataaminen on estetty, paina nuolesta ja pidä tiedosto
   ![](../asennus-kuvat/2.png?raw=true)
 - Avaa tiedosto. Jos Windows Defenderin SmartScreeniltä tulee viesti, että tiedoston suoritus on estetty, paina Lisätietoja ja Salli joka tapauksessa. 
