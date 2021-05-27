@@ -1,3 +1,5 @@
+# Hallacoin-lompakon asentaminen
+
 1. Lataa ja asenna uusin versio ([Hallacoin-x.xx.x-win64-setup.exe](https://github.com/hallabois/hallacoin/releases))
   ![](https://raw.githubusercontent.com/hallabois/Hallacoin-ohjeet/main/asennus-kuvat/1.png)
 - Jos tulee viesti, että tiedoston lataaminen on estetty, paina nuolesta ja pidä tiedosto
@@ -30,3 +32,11 @@
   ![](https://raw.githubusercontent.com/hallabois/Hallacoin-ohjeet/main/asennus-kuvat/14.png)
 
 3. Olet valmis käyttämään Hallacoinia! Avaa sovellus ja pidä hauskaa! 
+
+
+--- 
+
+
+# Kaivostoiminta
+
+https://hallabois.github.io/Hallacoin-ohjeet/mining
