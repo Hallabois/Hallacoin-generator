@@ -39,4 +39,4 @@
 
 # Kaivostoiminta
 
-https://hallabois.github.io/Hallacoin-ohjeet/mining
+[https://hallabois.github.io/Hallacoin-ohjeet/mining](https://hallabois.github.io/Hallacoin-ohjeet/mining)
